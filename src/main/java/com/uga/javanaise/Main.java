@@ -1,8 +1,8 @@
 package com.uga.javanaise;
 
-import jvn.JvnCoordImpl;
 
 import java.util.logging.Logger;
+import jvn.JvnCoordImpl;
 
 public class Main {
 

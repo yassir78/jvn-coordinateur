@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70bcd591-bb19-4a45-a454-923db2932b2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uga/javanaise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnCoordImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnLocalServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnObjectImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnRemoteCoord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnRemoteServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnServerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uga/javanaise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uga/javanaise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvn/JvnCoordImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnCoordImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvn/JvnLocalServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnLocalServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvn/JvnLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvn/JvnObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvn/JvnObjectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnObjectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvn/JvnRemoteCoord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnRemoteCoord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvn/JvnRemoteServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnRemoteServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvn/JvnServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvn/JvnServerImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +29,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -48,18 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yassiracaf/Desktop/javanaise/coordinateur/src/main/java/com/uga/javanaise&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/uga/javanaise" />
@@ -97,6 +93,11 @@
       <workItem from="1664702143093" duration="12040000" />
       <workItem from="1664727709842" duration="2767000" />
       <workItem from="1664730518020" duration="1101000" />
+      <workItem from="1664777846485" duration="1064000" />
+      <workItem from="1664778927322" duration="9639000" />
+      <workItem from="1664864264511" duration="1412000" />
+      <workItem from="1664865700974" duration="2963000" />
+      <workItem from="1664868791022" duration="5389000" />
     </task>
     <servers />
   </component>
@@ -113,5 +114,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
